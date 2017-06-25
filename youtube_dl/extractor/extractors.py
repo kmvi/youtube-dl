@@ -972,6 +972,7 @@ from .shared import (
     VivoIE,
 )
 from .showroomlive import ShowRoomLiveIE
+from .sibnet import SibnetIE
 from .sina import SinaIE
 from .sixplay import SixPlayIE
 from .skylinewebcams import SkylineWebcamsIE
